@@ -45,12 +45,12 @@ public class NightWielder23 {
 
 ## 🔥 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nightwielder23&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=nightwielder23&theme=dark&hide_border=true&border_radius=8&ring=FF4500&fire=FF6B35&currStreakLabel=FF4500&sideLabels=FF6B35&dates=888888" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nightwielder23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightwielder23&theme=tokyonight&hide_border=true&border_radius=8&layout=compact" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nightwielder23&show_icons=true&theme=dark&title_color=FF4500&icon_color=FF4500&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightwielder23&theme=dark&title_color=FF4500&icon_color=FF4500&hide_border=true&border_radius=8&layout=compact" alt="Top Languages" width="49%" />
 
 </div>
 
