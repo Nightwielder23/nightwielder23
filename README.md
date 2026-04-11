@@ -45,7 +45,7 @@ public class NightWielder23 {
 
 ## 🔥 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=nightwielder23&theme=dark&hide_border=true&border_radius=8&ring=FF4500&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FF4500&sideLabels=FF6B35&sideNums=FF6B35&dates=888888&stroke=FF4500" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=nightwielder23&theme=dark&hide_border=true&border_radius=8&ring=CC0000&fire=FF6B00&currStreakNum=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&sideNums=FFD700&dates=FF6B00&stroke=CC0000" alt="GitHub Streak" />
 
 </div>
 
