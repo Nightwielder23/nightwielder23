@@ -20,6 +20,7 @@ public class NightWielder23 {
     String[] languages  = {"Java", "TypeScript", "JavaScript", "Python", "HTML/CSS"};
     String[] skills     = {"OOP", "Reverse Engineering", "API Integration", "Git"};
     String[] focusingOn = {"Data Structures", "Low-level Engine Mechanics", "Open Source"};
+    
 }
 ```
 
