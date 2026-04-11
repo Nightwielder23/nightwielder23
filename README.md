@@ -45,12 +45,7 @@ public class NightWielder23 {
 
 ## 🔥 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=nightwielder23&theme=dark&hide_border=true&border_radius=8&ring=FF4500&fire=FF6B35&currStreakLabel=FF4500&sideLabels=FF6B35&dates=888888" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nightwielder23&show_icons=true&theme=dark&title_color=FF4500&icon_color=FF4500&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightwielder23&theme=dark&title_color=FF4500&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
+<img src="https://streak-stats.demolab.com?user=nightwielder23&theme=dark&hide_border=true&border_radius=8&ring=FF4500&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FF4500&sideLabels=FF6B35&sideNums=FF6B35&dates=888888&stroke=FF4500" alt="GitHub Streak" />
 
 </div>
 
@@ -75,16 +70,6 @@ public class NightWielder23 {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightwielder23/nightwielder23/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightwielder23/nightwielder23/output/github-snake.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Activity Graph
-
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nightwielder23&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
