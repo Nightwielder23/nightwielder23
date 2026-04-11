@@ -49,8 +49,8 @@ public class NightWielder23 {
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nightwielder23&show_icons=true&theme=dark&title_color=FF4500&icon_color=FF4500&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightwielder23&theme=dark&title_color=FF4500&icon_color=FF4500&hide_border=true&border_radius=8&layout=compact" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nightwielder23&show_icons=true&theme=dark&title_color=FF4500&icon_color=FF4500&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightwielder23&theme=dark&title_color=FF4500&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
 
 </div>
 
