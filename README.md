@@ -80,7 +80,7 @@ public class Nightwielder23 {
 
 <br/>
 
-<img src="https://github-readme-stats-seven-delta-76.vercel.app/api?username=nightwielder23&show_icons=true&theme=dark&hide_border=true&border_radius=8&title_color=FF2200&icon_color=FF6600&count_private=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightwielder23&theme=dark" alt="GitHub Graph" />
 
 </div>
 
