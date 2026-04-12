@@ -17,10 +17,9 @@
 ```java
 public class NightWielder23 {
 
-    String[] languages  = {"Java", "SQL", "Python", "HTML"};
-    String[] skills     = {"OOP", "Reverse Engineering", "API Integration", "Git"};
+    String[] languages         = {"Java", "SQL", "Python", "HTML"};
+    String[] skills            = {"OOP", "Reverse Engineering", "API Integration", "Git"};
     String[] currentlyLearning = {"Java", "OOP", "Minecraft Modding", "AI Fundamentals", "Python"};
-    
 }
 ```
 
@@ -36,6 +35,25 @@ public class NightWielder23 {
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+## ⚒️ Featured Projects
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Nightwielder23/nights-mediumcore">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nightwielder23&repo=nights-mediumcore&theme=dark&hide_border=true&border_radius=8&title_color=FF2200&icon_color=FF6600" />
+      </a>
+      <p><sub>A Minecraft 1.20.1 Forge mod adding a permanent heart loss survival system. Lose hearts on death and restore them with Crystal Hearts, Golden Apples, or the powerful Heart Relic.</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
