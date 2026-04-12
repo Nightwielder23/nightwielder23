@@ -20,6 +20,7 @@ public class Nightwielder23 {
     String[] languages         = {"Java", "SQL", "Python", "HTML"};
     String[] skills            = {"OOP", "Reverse Engineering", "API Integration", "Git"};
     String[] currentlyLearning = {"Java", "OOP", "Minecraft Modding", "AI Fundamentals", "Python"};
+
 }
 ```
 
