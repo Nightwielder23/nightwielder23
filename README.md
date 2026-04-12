@@ -80,7 +80,7 @@ public class Nightwielder23 {
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightwielder23&theme=dracula" alt="GitHub Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightwielder23&theme=github_dark" alt="GitHub Graph" />
 
 </div>
 
