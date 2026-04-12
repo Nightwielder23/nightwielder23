@@ -48,7 +48,7 @@ public class NightWielder23 {
 <table>
   <tr>
     <td align="center" width="600">
-      <h3><a href="https://github.com/Nightwielder23/nights-mediumcore">⚔️ nights-mediumcore</a></h3>
+      <h3><a href="https://github.com/Nightwielder23/nights-mediumcore">❤️ nights-mediumcore</a></h3>
       <p>A Minecraft 1.20.1 Forge mod adding a permanent heart loss survival system. Lose hearts on death and restore them with Crystal Hearts, Golden Apples, or the powerful Heart Relic.</p>
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/github/stars/Nightwielder23/nights-mediumcore?style=flat-square&color=FF2200" />
