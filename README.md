@@ -78,6 +78,10 @@ public class Nightwielder23 {
 
 <img src="https://streak-stats.demolab.com?user=nightwielder23&theme=dark&hide_border=true&border_radius=8&ring=FF2200&fire=FF6600&currStreakNum=FFD700&currStreakLabel=FF2200&sideLabels=FF6600&sideNums=FFD700&dates=888888&stroke=FF2200&count_private=true" alt="GitHub Streak" />
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nightwielder23&show_icons=true&theme=dark&hide_border=true&border_radius=8&title_color=FF2200&icon_color=FF6600&count_private=true" alt="GitHub Stats" />
+
 </div>
 
 ---
