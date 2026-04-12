@@ -15,7 +15,7 @@
 </div>
 
 ```java
-public class NightWielder23 {
+public class Nightwielder23 {
 
     String[] languages         = {"Java", "SQL", "Python", "HTML"};
     String[] skills            = {"OOP", "Reverse Engineering", "API Integration", "Git"};
