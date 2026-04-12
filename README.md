@@ -28,6 +28,17 @@ public class Nightwielder23 {
 
 <div align="center">
 
+## 📬 Contact
+
+[![Discord](https://img.shields.io/badge/nightwielder23-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/717165925232672830)
+[![GitHub](https://img.shields.io/badge/nightwielder23-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nightwielder23)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
