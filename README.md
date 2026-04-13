@@ -54,6 +54,7 @@ public class Nightwielder23 {
 
 ## ⚒️ Featured Projects
 
+
 </div>
 
 <div align="center">
@@ -65,6 +66,13 @@ public class Nightwielder23 {
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/github/stars/Nightwielder23/nights-mediumcore?style=flat-square&color=FF2200" />
       <img src="https://img.shields.io/github/forks/Nightwielder23/nights-mediumcore?style=flat-square&color=FF6600" />
+    </td>
+    <td align="center" width="600">
+      <h3><a href="https://github.com/Nightwielder23/apothsb">💎 apothsb</a></h3>
+      <p>A Minecraft 1.20.1 Forge compatibility mod fixing Apotheosis gems being rejected by Sophisticated Backpacks tag filter slots.</p>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/Nightwielder23/apothsb?style=flat-square&color=FF2200" />
+      <img src="https://img.shields.io/github/forks/Nightwielder23/apothsb?style=flat-square&color=FF6600" />
     </td>
   </tr>
 </table>
