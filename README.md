@@ -56,7 +56,6 @@ public class Nightwielder23 {
 
 
 </div>
-
 <div align="center">
 <table>
   <tr>
@@ -68,16 +67,16 @@ public class Nightwielder23 {
       <img src="https://img.shields.io/github/forks/Nightwielder23/nights-mediumcore?style=flat-square&color=FF6600" />
     </td>
     <td align="center" width="600">
-      <h3><a href="https://github.com/Nightwielder23/apothsb">💎 apothsb</a></h3>
-      <p>A Minecraft 1.20.1 Forge compatibility mod fixing Apotheosis gems being rejected by Sophisticated Backpacks tag filter slots.</p>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/Nightwielder23/apothsb?style=flat-square&color=FF2200" />
-      <img src="https://img.shields.io/github/forks/Nightwielder23/apothsb?style=flat-square&color=FF6600" />
+      <h3><a href="https://github.com/Nightwielder23/exoplanet-explorer">🪐 exoplanet-explorer</a></h3>
+      <p>An interactive star map visualizing all 6,160+ NASA confirmed exoplanets in real time. Built with React 18, D3.js canvas rendering, and the NASA Exoplanet Archive TAP API.</p>
+      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/D3.js-%23F9A03C.svg?style=flat-square&logo=d3.js&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/Nightwielder23/exoplanet-explorer?style=flat-square&color=00d4ff" />
+      <img src="https://img.shields.io/github/forks/Nightwielder23/exoplanet-explorer?style=flat-square&color=7ba7c9" />
     </td>
   </tr>
 </table>
 </div>
-
 ---
 
 <div align="center">
