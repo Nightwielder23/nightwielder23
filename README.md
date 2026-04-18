@@ -44,7 +44,11 @@ public class Nightwielder23 {
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightwielder23&layout=compact&theme=dark&hide_border=true&bg_color=000306&title_color=00d4ff&text_color=7ba7c9)
 
 </div>
 
