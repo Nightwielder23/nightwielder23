@@ -51,8 +51,7 @@ public class Nightwielder23 {
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nightwielder23&layout=compact&theme=dark&hide_border=true&bg_color=000306&title_color=00d4ff&text_color=7ba7c9)
 
 </div>
 
