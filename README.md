@@ -59,6 +59,8 @@ public class Nightwielder23 {
 
 <div align="center">
 
+<div align="center">
+
 ## ⚒️ Featured Projects
 
 
@@ -67,11 +69,11 @@ public class Nightwielder23 {
 <table>
   <tr>
     <td align="center" width="600">
-      <h3><a href="https://github.com/Nightwielder23/nights-mediumcore">❤️ nights-mediumcore</a></h3>
-      <p>A Minecraft 1.20.1 Forge mod adding a permanent heart loss survival system. Lose hearts on death and restore them with Crystal Hearts, Golden Apples, or the powerful Heart Relic.</p>
+      <h3><a href="https://github.com/Nightwielder23/apothic-compat">⚔️ apothic-compat</a></h3>
+      <p>A server-side Minecraft 1.20.1 Forge mod that fills in Apotheosis loot category assignments for 25+ weapon and armor mods, including Spartan Weaponry, Epic Knights, Simply Swords, L'Ender's Cataclysm, and more. Uses Apotheosis's IMC override API with no patches or mixins.</p>
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/Nightwielder23/nights-mediumcore?style=flat-square&color=FF2200" />
-      <img src="https://img.shields.io/github/forks/Nightwielder23/nights-mediumcore?style=flat-square&color=FF6600" />
+      <img src="https://img.shields.io/github/stars/Nightwielder23/apothic-compat?style=flat-square&color=FF2200" />
+      <img src="https://img.shields.io/github/forks/Nightwielder23/apothic-compat?style=flat-square&color=FF6600" />
     </td>
     <td align="center" width="600">
       <h3><a href="https://github.com/Nightwielder23/exoplanet-explorer">🪐 exoplanet-explorer</a></h3>
